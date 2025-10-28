@@ -1,4 +1,4 @@
-# 🧠 EDA-Theory-and-Practice  
+# 🧠 Exploratory-Data-Analysis-Tutorial
 
 A complete learning repository covering **Exploratory Data Analysis (EDA)** from **theory to practice** — created specially for students to master data understanding, cleaning, and visualization techniques in Python.
 
@@ -70,11 +70,11 @@ EDA-Theory-and-Practice/
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/yourusername/EDA-Theory-and-Practice.git
+   git clone https://github.com/yourusername/Exploratory-Data-Analysis-Tutorial.git
    ```
 2. Open the Jupyter Notebook (`Titanic_EDA.ipynb`).
 3. Run each cell and follow the step-by-step EDA workflow.
-4. Refer to `EDA_Theory.pdf` for theoretical explanations.
+4. Refer to `EDA_Method_Theory.pdf` for theoretical explanations.
 5. Use outputs and plots to interpret and summarize your findings.
 
 ---
