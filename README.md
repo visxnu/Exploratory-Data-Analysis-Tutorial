@@ -104,14 +104,4 @@ This project prepares you for **real-world data science tasks** and **interview-
 
 This project is licensed under the **MIT License** — feel free to use, share, and modify for learning or educational purposes, with proper attribution.
 
----
-
-⭐ **If you find this repository helpful, please star it on GitHub!**
-Let’s make learning data science simple, structured, and practical. 🚀
-
-```
-
----
-
-Would you like me to add a **banner image** (e.g., “EDA Theory & Practice — Learn by Doing”) and **GitHub badges** (like Python version, license, and stars) at the top to make it even more attractive visually?
-```
+![Exploratory-Data-Analysis-Tutorial](assests/Eda_Banner.png)
