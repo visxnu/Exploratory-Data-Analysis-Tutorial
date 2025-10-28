@@ -57,9 +57,8 @@ The Titanic dataset is ideal for practicing EDA — it involves passenger surviv
 ```
 EDA-Theory-and-Practice/
 │
-├── 📘 EDA_Theory.pdf        # Complete EDA theory notes
-├── 💻 Titanic_EDA.ipynb     # Practical EDA notebook
-├── 📊 outputs/              # Optional folder for charts/plots
+├── 📘 EDA_Method_Theory.ipynb        # Complete EDA theory notes
+├── 💻 EDA_Method_Practise.ipynb     # Practical EDA notebook    
 └── LICENSE                  # MIT License file
 ```
 
